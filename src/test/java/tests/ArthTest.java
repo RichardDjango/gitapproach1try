@@ -6,7 +6,7 @@ public class ArthTest {
     @Test
     public void Test(){
 
-        System.out.println("Test");
+        System.out.println("Test updated now");
     }
 }
 
